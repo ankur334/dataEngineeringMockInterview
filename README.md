@@ -1,6 +1,5 @@
 # 🔥dataEngineeringMockInterview
 
-![DA-Mock-Interview]()
 
 - <a href="https://www.youtube.com/thebigdatashow?sub_confirmation=1" title="Subscribe to Ankur's YouTube Channel" style="background-color:#FFFFFF;color:#000000;text-decoration:none">▶ Subscribe to our channel </a>
 
@@ -24,5 +23,5 @@
 
 
 
-## Thanks to all the contributors ❤️
+## Contribution Guide
 
